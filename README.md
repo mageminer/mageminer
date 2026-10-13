@@ -1,7 +1,8 @@
 # MageMiner
+[![Website](https://img.shields.io/badge/Website-mageminer.pages.dev-blue?style=for-the-badge)](https://mageminer.pages.dev/)
 
 **挖矿软件 / Mining Software**
-[![Website](https://img.shields.io/badge/Website-mageminer.pages.dev-blue?style=for-the-badge)](https://mageminer.pages.dev/)
+
 🔗 官网 / Official Website: https://mageminer.pages.dev/
 
 ---
