@@ -4,6 +4,8 @@
 
 **多币种挖矿软件 / Multi-coin Mining Software / Мультивалютное ПО для майнинга**
 
+👉 **官网 / Website / Сайт:** https://mageminer.pages.dev/
+
 > 高效、可配置、自动化的挖矿体验。  
 > Efficient, configurable, automated mining.  
 > Эффективный, настраиваемый и автоматизированный майнинг.
