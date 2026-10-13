@@ -1,12 +1,12 @@
 # MageMiner
 
 **挖矿软件 / Mining Software**
-
+[![Website](https://img.shields.io/badge/Website-mageminer.pages.dev-blue?style=for-the-badge)](https://mageminer.pages.dev/)
 🔗 官网 / Official Website: https://mageminer.pages.dev/
 
 ---
 
-## 中文
+
 
 MageMiner 是一个正在开发中的挖矿软件。
 
@@ -18,7 +18,7 @@ MageMiner 是一个正在开发中的挖矿软件。
 
 ---
 
-## English
+
 
 MageMiner is a mining software project currently under development.
 
